@@ -8,7 +8,7 @@ using IEXTrading.Infrastructure.IEXTradingHandler;
 using IEXTrading.Models;
 using IEXTrading.Models.ViewModel;
 using IEXTrading.DataAccess;
-using Newtonsoft.Json;
+using Newtonsoft.Json; /* Importing libraries*/
 
 namespace MVCTemplate.Controllers
 {
